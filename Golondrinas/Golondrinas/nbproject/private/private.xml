@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/golondrinas/Golondrinas.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/Rol.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/Persona.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/Ruta.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/Asiento.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/AsientoNormal.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/AsientoVentanilla.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/AsientoVIP.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/excepciones/AsientosInvalidosException.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/modelo/Factura.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/dao/RutaDAO.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/recursos/schema.sql</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/dao/FacturaDAO.java</file>
+            <file>file:/C:/Users/allan/Documents/NetBeansProjects/Golondrinas/src/dao/UsuarioDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
