@@ -6,7 +6,6 @@ package modelo;
 
 /**
  *
- * @author allan
  */
 public class AsientoNormal extends Asiento {
 public AsientoNormal() {
