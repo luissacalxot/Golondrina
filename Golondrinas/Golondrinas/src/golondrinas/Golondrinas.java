@@ -6,7 +6,6 @@ package golondrinas;
 
 /**
  *
- * @author allan
  */
 import dao.ClienteDAO;
 import dao.ConexionBD;
