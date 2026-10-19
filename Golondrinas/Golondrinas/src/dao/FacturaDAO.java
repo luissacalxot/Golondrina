@@ -6,7 +6,6 @@ package dao;
 
 /**
  *
- * @author allan
  */
 import excepciones.AsientosInvalidosException;
 import modelo.Asiento;
