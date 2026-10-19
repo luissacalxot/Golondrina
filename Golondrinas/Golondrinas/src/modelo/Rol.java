@@ -6,7 +6,6 @@ package modelo;
 
 /**
  *
- * @author allan
  */
 public enum Rol {
     ADMIN,EMPLEADO;
