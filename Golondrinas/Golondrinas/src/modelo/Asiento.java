@@ -6,7 +6,6 @@ package modelo;
 
 /**
  *
- * @author allan
  */
 public abstract class Asiento {
     private final String tipo;
