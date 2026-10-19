@@ -6,7 +6,6 @@ package modelo;
 
 /**
  *
- * @author allan
  */
 public class Usuario extends Persona {
 private String usuario;
