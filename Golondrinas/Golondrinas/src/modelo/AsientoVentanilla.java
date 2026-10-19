@@ -6,7 +6,6 @@ package modelo;
 
 /**
  *
- * @author allan
  */
 public class AsientoVentanilla extends Asiento {
 private static final double RECARGO = 40.00;
