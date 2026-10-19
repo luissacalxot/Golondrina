@@ -6,7 +6,6 @@ package modelo;
 
 /**
  *
- * @author allan
  */
 import excepciones.AsientosInvalidosException;
 import java.time.LocalDate;
