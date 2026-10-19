@@ -6,7 +6,6 @@ package dao;
 
 /**
  *
- * @author allan
  */
 import modelo.Ruta;
 import java.sql.*;
