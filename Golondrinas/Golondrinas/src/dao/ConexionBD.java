@@ -6,7 +6,7 @@ package dao;
 
 /**
  *
- * @author allan
+ *
  */
 import java.io.BufferedReader;
 import java.io.IOException;
