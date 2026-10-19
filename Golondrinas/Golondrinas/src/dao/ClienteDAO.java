@@ -6,7 +6,7 @@ package dao;
 
 /**
  *
- * @author allan
+ * 
  */
 import modelo.Cliente;
 import java.sql.*;
