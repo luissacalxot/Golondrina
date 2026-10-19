@@ -6,7 +6,6 @@ package excepciones;
 
 /**
  *
- * @author allan
  */
 public class AsientosInvalidosException extends Exception {
     public AsientosInvalidosException(String mensaje) {
